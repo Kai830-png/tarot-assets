@@ -1,0 +1,11 @@
+<svg width="200" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="pattern" patternUnits="userSpaceOnUse" width="20" height="20">
+      <circle cx="10" cy="10" r="2" fill="#8B7355" opacity="0.3"/>
+    </pattern>
+  </defs>
+  <rect width="200" height="320" fill="#E0D6CC"/>
+  <rect width="200" height="320" fill="url(#pattern)"/>
+  <rect x="10" y="10" width="180" height="300" fill="none" stroke="#8B7355" stroke-width="2" rx="8"/>
+  <text x="100" y="160" font-size="24" font-family="serif" text-anchor="middle" fill="#8B7355" opacity="0.5">Tarot</text>
+</svg>
